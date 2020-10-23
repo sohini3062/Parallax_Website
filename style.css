@@ -1,0 +1,94 @@
+body,html{
+    margin: 0;
+    display: block;
+    height:100%;
+}
+.parallax1 {
+  background-image: url("12.jpeg");
+    color: black;
+   
+  min-height: 100% ;
+    margin:0;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.parallax2 {
+  background-image: url("14.jpeg");
+min-height: 100% ;
+    padding:0;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.parallax3 {
+  background-image: url("1.jpg");
+min-height: 100% ;
+    padding:0;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.caption h1{
+     width:100%;
+    left:0;
+    top:40%;
+    position:absolute;
+    text-align: center;
+    font-family:Courier;
+}
+.caption p {
+     width:100%;
+    left:0;
+    top:50%;
+    position:absolute;
+    text-align: center;
+    font-family:Courier;
+}
+
+.text{
+   
+    
+    text-align: center;
+    background-color: black;
+   color: white;
+    font-family:American Typewriter;
+    padding:50px 80px;
+    
+    
+}
+.parallax1{
+    position: relative;
+    opacity: 1;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.parallax2{
+    position: relative;
+    opacity: 1;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.parallax3{
+    position: relative;
+    opacity: 1;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+footer{
+    background-color: black;
+    color:white;
+}
+
+
+    
